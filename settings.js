@@ -1,4 +1,4 @@
 module.exports = {
-	botToken: "6004245923:AAEWyNS0kFknzGpjMe9KZZ2--vnbRpiAw-0",
-	chatId: "5068473964",
+	botToken: "6135223687:AAFtkankoWuovmemUEIoe_CUb3A5lBZO8JU",
+	chatId: "5836161265",
 };
